@@ -1,4 +1,4 @@
 untitled.html
-figures/mass/mass.png
+figures/mass
 9fe3.html
 10bae.html
